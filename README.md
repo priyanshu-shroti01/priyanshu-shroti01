@@ -185,6 +185,11 @@ Conducted vulnerability scanning, network analysis, and security reporting under
 </div>
 
 <div align="center">
+  <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=priyanshu-shroti01&repo=TaskFlow&theme=tokyonight&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" alt="TaskFlow pinned repo" />
+  <img height="150" src="https://github-repository-contribution-stat-green.vercel.app/api?username=priyanshu-shroti01&limit=4&theme=tokyonight&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" alt="Top contributions" />
+</div>
+
+<div align="center">
   <img src="https://github-trophies.vercel.app/?username=priyanshu-shroti01&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
