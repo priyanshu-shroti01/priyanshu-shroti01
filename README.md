@@ -176,8 +176,8 @@ Conducted vulnerability scanning, network analysis, and security reporting under
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-shroti01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshu-shroti01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" />
 </div>
 
 <div align="center">
@@ -185,7 +185,7 @@ Conducted vulnerability scanning, network analysis, and security reporting under
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu-shroti01&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=priyanshu-shroti01&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 <div align="center">
