@@ -14,6 +14,7 @@ Full-stack and solutions-focused developer with hands-on experience building **p
 
 - 💻 I work across the full stack — **React / TypeScript** on the frontend, **Node.js / Express** on the backend, **MongoDB / MySQL** for data, and **Docker / Git / Linux** for shipping it
 - 🤖 I like automating things — WhatsApp/Telegram bots, cron-driven workflows, webhook-based API orchestration
+- 🌍 Served **800+ clients worldwide**, across both hosting and custom development work
 - 🚀 Currently working on **[cPanel File Ownership & Permissions Repair](https://github.com/priyanshu-shroti01/cpanel-repair-file-ownership-permissions)**, a tool for fixing hosting-account file/ownership issues
 - 💬 Open to freelance work and full-stack opportunities — I'm hireable!
 - 📫 Reach me at **priyanshushroti@gmail.com**
@@ -67,9 +68,9 @@ Full-stack and solutions-focused developer with hands-on experience building **p
 
 <div align="center">
 
-| 🌐 Hosting Clients Served | 💰 Hosting Revenue | 🔑 Licensing Customers | 💵 Licensing Revenue |
+| 🌍 Clients Served Worldwide | 💰 Hosting Revenue | 🔑 Licensing Customers | 💵 Licensing Revenue |
 |:---:|:---:|:---:|:---:|
-| **450+** | **₹2L+** | **70+** | **₹50K+** |
+| **800+** *(Hosting & Development)* | **₹2L+** | **70+** | **₹50K+** |
 
 </div>
 
