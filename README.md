@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C7B7&height=220&section=header&text=Hi%20there,%20I'm%20Priyanshu%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20PHP%2FWHMCS%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C7B7&height=220&section=header&text=Hi%20there,%20I'm%20Priyanshu%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/priyanshu-shroti01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Full-Stack+Developer+%7C+PHP+%26+WHMCS+Specialist;Building+scalable+web+apps+%26+automation+tools;React+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+WordPress+%E2%80%A2+WHMCS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Full-Stack+Developer;Building+scalable+web+apps+%26+automation+tools;React+%E2%80%A2+Node.js+%E2%80%A2+Docker+%E2%80%A2+MongoDB+%E2%80%A2+Git" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 Full-stack and solutions-focused developer with hands-on experience building **production-grade SaaS platforms, automation systems, API integrations, and scalable backend workflows**. Experienced deploying and managing real-world applications across cloud and VPS environments, with a strong focus on client-oriented problem solving, workflow automation, and operational reliability.
 
-- 💻 I build with **React / Node.js**, ship **PHP** on **Laravel / WordPress / WHMCS**, and manage my own **VPS/Linux** infrastructure
+- 💻 I work across the full stack — **React / TypeScript** on the frontend, **Node.js / Express** on the backend, **MongoDB / MySQL** for data, and **Docker / Git / Linux** for shipping it
 - 🤖 I like automating things — WhatsApp/Telegram bots, cron-driven workflows, webhook-based API orchestration
 - 🚀 Currently working on **[cPanel File Ownership & Permissions Repair](https://github.com/priyanshu-shroti01/cpanel-repair-file-ownership-permissions)**, a tool for fixing hosting-account file/ownership issues
 - 💬 Open to freelance work and full-stack opportunities — I'm hireable!
@@ -23,7 +23,7 @@ Full-stack and solutions-focused developer with hands-on experience building **p
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,laravel,php,py,mongodb,mysql,wordpress,html,css,tailwind,bootstrap,apache,nginx,linux,git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,docker,git,github,linux,postman,vscode,py,php,laravel,wordpress,apache,nginx&theme=dark" />
 </div>
 
 <br/>
@@ -32,26 +32,29 @@ Full-stack and solutions-focused developer with hands-on experience building **p
   <tr>
     <td valign="top" width="50%">
 
-**Backend**
-- PHP, Node.js, REST APIs, Python (foundational)
-- MVC architecture (Laravel), Express.js
-- Auth & validation, Cron jobs, Webhooks, Payment integrations
-
 **Frontend**
 - HTML5, CSS3, JavaScript, TypeScript
 - React.js, Tailwind CSS, Bootstrap
-- Responsive design, Elementor
+- Responsive design
+
+**Backend**
+- Node.js, Express.js, REST APIs
+- Python (foundational)
+- Auth & validation, Cron jobs, Webhooks, Payment integrations
+
+**Databases**
+- MongoDB, MySQL, MongoDB Atlas
 
     </td>
     <td valign="top" width="50%">
 
-**Servers, Hosting & Cloud**
+**DevOps & Tools**
+- Docker, Git, GitHub
 - Linux, VPS, Apache, NGINX, DNS & DB management
-- Netlify, Railway, MongoDB Atlas, PM2
+- Netlify, Railway, PM2, Postman/API testing
 
-**CMS, Databases & Automation**
-- WordPress, WooCommerce, WHMCS module development
-- MongoDB, MySQL, Postman/API testing
+**Other Experience**
+- PHP, Laravel (MVC), WordPress/WooCommerce, WHMCS module development
 - WhatsApp API systems, Telegram bots, workflow automation
 
     </td>
