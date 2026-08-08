@@ -10,10 +10,12 @@
 
 ### 👋 About Me
 
-- 🌱 Full-stack developer based in **Gurugram, India**
-- 💻 I build web apps with **React / Node.js**, and ship **PHP** solutions on **WordPress** and **WHMCS**
-- 🔧 Comfortable across the stack — from frontend UI to backend APIs to Linux/cPanel server administration
-- 🚀 Currently building **[TaskFlow](https://github.com/priyanshu-shroti01/TaskFlow)**, a production-style team task manager
+Full-stack and solutions-focused developer with hands-on experience building **production-grade SaaS platforms, automation systems, API integrations, and scalable backend workflows**. Experienced deploying and managing real-world applications across cloud and VPS environments, with a strong focus on client-oriented problem solving, workflow automation, and operational reliability.
+
+- 🎓 B.Tech CSE @ **GD Goenka University** (2022 – 2026), CGPA 7.98
+- 💻 I build with **React / Node.js**, ship **PHP** on **Laravel / WordPress / WHMCS**, and manage my own **VPS/Linux** infrastructure
+- 🤖 I like automating things — WhatsApp/Telegram bots, cron-driven workflows, webhook-based API orchestration
+- 🚀 Currently building **[TaskFlow](https://github.com/priyanshu-shroti01/TaskFlow)**, a production-style SaaS team task manager
 - 💬 Open to freelance work and full-stack opportunities — I'm hireable!
 - 📫 Reach me at **priyanshushroti@gmail.com**
 
@@ -22,7 +24,7 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,php,wordpress,html,css,tailwind,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,laravel,php,py,mongodb,mysql,wordpress,html,css,tailwind,bootstrap,apache,nginx,linux,git,github,postman,vscode&theme=dark" />
 </div>
 
 <br/>
@@ -31,30 +33,43 @@
   <tr>
     <td valign="top" width="50%">
 
-**Frontend**
-- React, TypeScript, JavaScript (ES6+)
-- Tailwind CSS, Framer Motion
-- Vite, HTML5/CSS3
-
 **Backend**
-- Node.js, Express.js
-- MongoDB, REST APIs
-- JWT Authentication
+- PHP, Node.js, REST APIs, Python (foundational)
+- MVC architecture (Laravel), Express.js
+- Auth & validation, Cron jobs, Webhooks, Payment integrations
+
+**Frontend**
+- HTML5, CSS3, JavaScript, TypeScript
+- React.js, Tailwind CSS, Bootstrap
+- Responsive design, Elementor
 
     </td>
     <td valign="top" width="50%">
 
-**CMS & Platforms**
-- WordPress (plugin development)
-- WHMCS (module & gateway development)
+**Servers, Hosting & Cloud**
+- Linux, VPS, Apache, NGINX, DNS & DB management
+- Netlify, Railway, MongoDB Atlas, PM2
 
-**Hosting & Ops**
-- cPanel / WHM, Linux server administration
-- Netlify, Railway, Git & GitHub
+**CMS, Databases & Automation**
+- WordPress, WooCommerce, WHMCS module development
+- MongoDB, MySQL, Postman/API testing
+- WhatsApp API systems, Telegram bots, workflow automation
 
     </td>
   </tr>
 </table>
+
+<br/>
+
+### 📈 Impact
+
+<div align="center">
+
+| 🌐 Hosting Clients Served | 💰 Hosting Revenue | 🔑 Licensing Customers | 💵 Licensing Revenue |
+|:---:|:---:|:---:|:---:|
+| **450+** | **₹2L+** | **70+** | **₹50K+** |
+
+</div>
 
 <br/>
 
@@ -114,6 +129,48 @@ Utilities for WordPress sites and hosting infrastructure, including a WhatsApp n
 
 🔗 [WordPress WhatsApp Notification](https://github.com/priyanshu-shroti01/wordpress-whatsapp-notification) · [cPanel Ownership Repair](https://github.com/priyanshu-shroti01/cpanel-repair-file-ownership-permissions)
 </details>
+
+<details>
+<summary><b>🖥️ ShrotiHost — Hosting Automation Platform</b></summary>
+<br/>
+
+Hosting infrastructure serving 450+ clients (including international customers) across reseller hosting and VPS environments — with automation for DNS management, client workflows, payment integrations, and WHMCS-based operational tooling. Generated ₹2L+ revenue through hosting services, custom modules, and automation-driven workflows.
+
+`WHMCS` `VPS` `DNS` `Payment Integrations` `Client Automation`
+</details>
+
+<details>
+<summary><b>🔑 CodeMarket & Licensing System — SaaS License Management</b></summary>
+<br/>
+
+Automated digital licensing and delivery platforms: **CodeMarket** serves 70+ licensed customers with API-based activation/verification (₹50K+ revenue, centralized proxy-based license routing), and a Laravel-based **Licensing System** engine handling activation, validation, expiration, and revocation via secure REST APIs, cron automation, and webhooks.
+
+`Laravel` `REST APIs` `Webhooks` `Cron Automation` `MySQL`
+</details>
+
+<br/>
+
+### 💼 Experience
+
+**Ethical Hacking Intern** — LearnWik Solutions Pvt. Ltd. *(Dec 2022 – Feb 2023)*
+Conducted vulnerability scanning, network analysis, and security reporting under supervision.
+
+<br/>
+
+### 🎓 Education
+
+**GD Goenka University**, Gurugram — B.Tech, Computer Science & Engineering *(Sept 2022 – May 2026)*, CGPA: 7.98
+**RBSM Public School** — Class 12, CBSE *(2022)*
+**Gold Field Public School** — Class 10, CBSE *(2020)*
+
+<br/>
+
+### 📜 Certifications
+
+- Introduction to OpenShift Applications — **Red Hat**
+- Principles of Management — **NPTEL**
+- Practical Cyber Security for Cyber Security Practitioners — **NPTEL**
+- Best Presentation Award — Ideathon 2.1 (MSME – Govt. of India, CIE GD Goenka University)
 
 <br/>
 
