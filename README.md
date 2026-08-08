@@ -14,7 +14,7 @@ Full-stack and solutions-focused developer with hands-on experience building **p
 
 - 💻 I build with **React / Node.js**, ship **PHP** on **Laravel / WordPress / WHMCS**, and manage my own **VPS/Linux** infrastructure
 - 🤖 I like automating things — WhatsApp/Telegram bots, cron-driven workflows, webhook-based API orchestration
-- 🚀 Currently building **[TaskFlow](https://github.com/priyanshu-shroti01/TaskFlow)**, a production-style SaaS team task manager
+- 🚀 Currently working on **[cPanel File Ownership & Permissions Repair](https://github.com/priyanshu-shroti01/cpanel-repair-file-ownership-permissions)**, a tool for fixing hosting-account file/ownership issues
 - 💬 Open to freelance work and full-stack opportunities — I'm hireable!
 - 📫 Reach me at **priyanshushroti@gmail.com**
 
@@ -75,6 +75,17 @@ Full-stack and solutions-focused developer with hands-on experience building **p
 ### 🚀 Featured Projects
 
 <details open>
+<summary><b>🛠️ cPanel File Ownership & Permissions Repair — Active Project</b></summary>
+<br/>
+
+A hosting-admin tool that fixes broken file ownership and permission issues on cPanel accounts — restoring correct user/group ownership and standard permission modes so sites stop throwing 500/403 errors after migrations, restores, or misconfigured deployments.
+
+`Bash` `Linux` `cPanel` `Server Administration`
+
+🔗 [Repository](https://github.com/priyanshu-shroti01/cpanel-repair-file-ownership-permissions)
+</details>
+
+<details>
 <summary><b>🗂️ TaskFlow — Full-Stack Team Task Manager</b></summary>
 <br/>
 
@@ -119,14 +130,14 @@ A collection of custom WHMCS modules built for hosting businesses: gateway fee a
 </details>
 
 <details>
-<summary><b>🔧 WordPress & Server Tools</b></summary>
+<summary><b>🔧 WordPress WhatsApp Notification Plugin</b></summary>
 <br/>
 
-Utilities for WordPress sites and hosting infrastructure, including a WhatsApp notification plugin and a cPanel file ownership/permission repair tool.
+Event-driven notification system using WordPress and WooCommerce hooks — triggers WhatsApp API calls on order status and user events, with an admin configuration panel and error handling.
 
-`WordPress` `PHP` `Bash` `cPanel`
+`WordPress` `WooCommerce` `PHP`
 
-🔗 [WordPress WhatsApp Notification](https://github.com/priyanshu-shroti01/wordpress-whatsapp-notification) · [cPanel Ownership Repair](https://github.com/priyanshu-shroti01/cpanel-repair-file-ownership-permissions)
+🔗 [Repository](https://github.com/priyanshu-shroti01/wordpress-whatsapp-notification)
 </details>
 
 <details>
@@ -185,7 +196,7 @@ Conducted vulnerability scanning, network analysis, and security reporting under
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=priyanshu-shroti01&repo=TaskFlow&theme=tokyonight&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" alt="TaskFlow pinned repo" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=priyanshu-shroti01&repo=cpanel-repair-file-ownership-permissions&theme=tokyonight&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" alt="cPanel repair pinned repo" />
   <img height="150" src="https://github-repository-contribution-stat-green.vercel.app/api?username=priyanshu-shroti01&limit=4&theme=tokyonight&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" alt="Top contributions" />
 </div>
 
@@ -208,7 +219,7 @@ Conducted vulnerability scanning, network analysis, and security reporting under
 ```yaml
 role: Full-Stack Developer
 focus:
-  - Scaling TaskFlow into a fuller SaaS product
+  - Fixing cPanel file ownership & permission issues at scale
   - Deepening React/Node.js and system design skills
   - Building automation tooling around WHMCS & WordPress
 collaborating_on: Open to freelance & full-stack opportunities
