@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C7B7&height=220&section=header&text=Hi%20there,%20I'm%20Priyanshu%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20PHP%20%26%20WHMCS%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C7B7&height=220&section=header&text=Hi%20there,%20I'm%20Priyanshu%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20PHP%2FWHMCS%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/priyanshu-shroti01">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Full-Stack+Developer+%7C+PHP+%26+WHMCS+Specialist;Building+scalable+web+apps+%26+automation+tools;React+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+WordPress+%E2%80%A2+WHMCS" alt="Typing SVG" />
