@@ -12,7 +12,6 @@
 
 Full-stack and solutions-focused developer with hands-on experience building **production-grade SaaS platforms, automation systems, API integrations, and scalable backend workflows**. Experienced deploying and managing real-world applications across cloud and VPS environments, with a strong focus on client-oriented problem solving, workflow automation, and operational reliability.
 
-- 🎓 B.Tech CSE @ **GD Goenka University** (2022 – 2026), CGPA 7.98
 - 💻 I build with **React / Node.js**, ship **PHP** on **Laravel / WordPress / WHMCS**, and manage my own **VPS/Linux** infrastructure
 - 🤖 I like automating things — WhatsApp/Telegram bots, cron-driven workflows, webhook-based API orchestration
 - 🚀 Currently building **[TaskFlow](https://github.com/priyanshu-shroti01/TaskFlow)**, a production-style SaaS team task manager
