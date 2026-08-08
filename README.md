@@ -23,7 +23,7 @@ Full-stack and solutions-focused developer with hands-on experience building **p
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,docker,git,github,linux,postman,vscode,py,php,laravel,wordpress,apache,nginx,npm&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,docker,git,github,linux,postman,vscode,py,php,laravel,wordpress,bash,nginx,npm&theme=dark&perline=12" />
 </div>
 
 <br/>
