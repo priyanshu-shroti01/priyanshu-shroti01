@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's own GitHub description. Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
+  "projects": [
+    {
+      "repo": "cpanel-repair-file-ownership-permissions",
+      "description": "Hosting-admin tool that fixes broken file ownership and permissions on cPanel accounts, so sites stop throwing 500/403 errors after migrations and restores."
+    },
+    {
+      "repo": "TaskFlow",
+      "description": "Production-ready SaaS-style task manager with JWT auth, role-based access control, and project/task tracking. React, Node, Express, MongoDB."
+    },
+    {
+      "repo": "portfolio",
+      "description": "Personal developer portfolio built with React + TypeScript, animated with Framer Motion and styled with Tailwind CSS."
+    },
+    {
+      "repo": "wordpress-whatsapp-notification",
+      "description": "Event-driven WhatsApp notifications for WordPress/WooCommerce - order and user event hooks, admin config panel, and error handling."
+    }
+  ]
+}

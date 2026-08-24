@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "SELF-RATED NUMBERS - inferred from the profile README, not measured. Edit freely; values are 0-100 and 5-8 axes reads best. The workflow redraws the chart on push.",
+  "axes": [
+    { "label": "React / Frontend",  "value": 82 },
+    { "label": "Node / Express",    "value": 85 },
+    { "label": "MongoDB / MySQL",   "value": 78 },
+    { "label": "PHP / Laravel",     "value": 74 },
+    { "label": "WHMCS / Automation","value": 88 },
+    { "label": "Docker / Linux",    "value": 76 },
+    { "label": "WordPress",         "value": 70 }
+  ]
+}
