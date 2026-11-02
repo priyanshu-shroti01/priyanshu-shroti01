@@ -40,7 +40,7 @@ async function fetchDays(username, token) {
   const days = user.contributionsCollection.contributionCalendar.weeks
     .flatMap((w) => w.contributionDays)
     .map((d) => ({ date: d.date, count: d.contributionCount }));
-  return { name: user.name || username, days: days.slice(-DAYS) };
+  return { name: (user.name || username).trim(), days: days.slice(-DAYS) };
 }
 
 function niceMax(value) {
