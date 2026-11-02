@@ -315,7 +315,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-shroti01&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=ffffff" width="100%" />
+<img src="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output-activity/activity-graph.svg" width="100%" alt="Contribution activity graph" />
 
 </div>
 
