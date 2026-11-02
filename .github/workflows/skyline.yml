@@ -2,7 +2,7 @@ name: Generate 3D Skyline
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "30 */6 * * *"
   workflow_dispatch:
   push:
     branches:
