@@ -323,6 +323,14 @@ open_to:
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output-skyline/profile-night-green.svg" width="100%" alt="3D contribution skyline" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
