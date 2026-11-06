@@ -297,25 +297,17 @@ open_to:
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=087F75&icon_color=087F75&text_color=24292F" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=087F75&icon_color=087F75&text_color=24292F" alt="GitHub statistics" />
+</picture>
 
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshu-shroti01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-shroti01&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output-activity/activity-graph.svg" width="100%" alt="Contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshu-shroti01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshu-shroti01&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=087F75&text_color=24292F" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshu-shroti01&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=087F75&text_color=24292F" alt="Most used languages" />
+</picture>
 
 </div>
 
@@ -323,7 +315,11 @@ open_to:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output-skyline/profile-night-green.svg" width="100%" alt="3D contribution skyline" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-shroti01&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-shroti01&theme=default&hide_border=true&background=FFFFFF&ring=087F75&fire=087F75&currStreakLabel=087F75" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-shroti01&theme=default&hide_border=true&background=FFFFFF&ring=087F75&fire=087F75&currStreakLabel=087F75" alt="GitHub contribution streak" />
+</picture>
 
 </div>
 
@@ -331,7 +327,35 @@ open_to:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-shroti01&bg_color=0D1117&color=9BE9A8&line=00C7B7&point=FFFFFF&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-shroti01&bg_color=FFFFFF&color=24292F&line=087F75&point=087F75&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-shroti01&bg_color=FFFFFF&color=24292F&line=087F75&point=087F75&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output-skyline/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output-skyline/profile-green.svg" />
+  <img src="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output-skyline/profile-green.svg" width="100%" alt="3D contribution skyline" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/priyanshu-shroti01/priyanshu-shroti01/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution grid animation" />
+</picture>
 
 </div>
 
