@@ -4,21 +4,21 @@
     "fileName": "skyline-dark.svg",
     "backgroundColor": "#0D1117",
     "foregroundColor": "#C9D1D9",
-    "strongColor": "#00C7B7",
+    "strongColor": "#39D353",
     "weakColor": "#8B949E",
-    "radarColor": "#00C7B7",
+    "radarColor": "#26A641",
     "growingAnimation": true,
-    "contribColors": ["#2D333B", "#0E6B62", "#10A396", "#2EE6D3", "#B4FFF6"]
+    "contribColors": ["#2D333B", "#0E4429", "#006D32", "#26A641", "#39D353"]
   },
   {
     "type": "normal",
     "fileName": "skyline-light.svg",
     "backgroundColor": "#FFFFFF",
     "foregroundColor": "#24292F",
-    "strongColor": "#087F75",
+    "strongColor": "#216E39",
     "weakColor": "#6E7781",
-    "radarColor": "#087F75",
+    "radarColor": "#30A14E",
     "growingAnimation": true,
-    "contribColors": ["#EBEDF0", "#A6E9DF", "#3FC9B8", "#0F9A8C", "#086B62"]
+    "contribColors": ["#EBEDF0", "#9BE9A8", "#40C463", "#30A14E", "#216E39"]
   }
 ]
