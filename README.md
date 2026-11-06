@@ -1,8 +1,5 @@
-iv>
+<div align="center">
 
-<br/>
-
-center">
 
 # 👋 Hey, I'm Priyanshu Shroti
 
