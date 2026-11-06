@@ -299,9 +299,9 @@ open_to:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=087F75&icon_color=087F75&text_color=24292F" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=087F75&icon_color=087F75&text_color=24292F" alt="GitHub statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9&hide_rank=true&hide=stars,contribs,issues&include_all_commits=true&custom_title=Priyanshu%20Shroti%27s%20GitHub%20Stats" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=087F75&icon_color=087F75&text_color=24292F&hide_rank=true&hide=stars,contribs,issues&include_all_commits=true&custom_title=Priyanshu%20Shroti%27s%20GitHub%20Stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=priyanshu-shroti01&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=087F75&icon_color=087F75&text_color=24292F&hide_rank=true&hide=stars,contribs,issues&include_all_commits=true&custom_title=Priyanshu%20Shroti%27s%20GitHub%20Stats" alt="GitHub statistics" />
 </picture>
 
 <picture>
