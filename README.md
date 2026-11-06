@@ -652,15 +652,6 @@ open_to:
 
 <br/>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-shroti01&bg_color=0D1117&color=9BE9A8&line=00C7B7&point=FFFFFF&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-shroti01&bg_color=FFFFFF&color=24292F&line=087F75&point=087F75&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-shroti01&bg_color=FFFFFF&color=24292F&line=087F75&point=087F75&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-</picture>
-
-</div>
 
 <br/>
 
